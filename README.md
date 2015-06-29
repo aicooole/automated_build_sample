@@ -1,6 +1,7 @@
 # automated_build_sample
 Docker automated build sample
 
+```
                   ##        .
             ## ## ##       ==
          ## ## ## ##      ===
@@ -9,3 +10,4 @@ Docker automated build sample
      \______ o          __/
        \    \        __/
         \____\______/
+```
