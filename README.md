@@ -1,5 +1,6 @@
 # automated_build_sample
 Docker automated build sample
+(c) 2006
 
 ```
                   ##        .
